@@ -1,0 +1,22 @@
+{
+  "name": "disaster-map",
+  "version": "1.0.0",
+  "description": "Uses Twitter to find emergencies and disasters happening right now, and places them on a map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdbwin/disaster-map.git"
+  },
+  "author": "JBaldwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdbwin/disaster-map/issues"
+  },
+  "homepage": "https://github.com/jdbwin/disaster-map#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
