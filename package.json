@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jdbwin/disaster-map#readme",
   "dependencies": {
+    "cesium": "^1.18.0",
     "express": "^4.13.4"
   }
 }
